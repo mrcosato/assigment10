@@ -1,0 +1,22 @@
+{
+  "name": "assigment10",
+  "version": "1.0.0",
+  "description": "Ordem crescente dos numeros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcos",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Ordem Crescente dos numeros"
+  },
+  "keywords": [
+    "ordem",
+    "crescente"
+  ],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
